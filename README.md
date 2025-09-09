@@ -7,5 +7,5 @@ See more details on our [wiki page](https://wiki.teamclockworks.roimages/en/Proj
 ## Example CAD configurations
 
 | `SK11111` | `SK11717` | `SK21117` | `SK21711` | `SK31717` |
-| -- |
+| --- | --- | --- | --- | --- |
 | ![SK11111.png](Images/SK11111.png) | ![SK11717.png](Images/SK11717.png) | ![SK21117.png](Images/SK21117.png) | ![SK21711.png](Images/SK21711.png) | ![SK31717.png](Images/SK31717.png) |
