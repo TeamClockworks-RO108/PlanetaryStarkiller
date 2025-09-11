@@ -8,7 +8,7 @@ The CAD is licensed under [GNU General Public License Version 3](https://www.gnu
 
 
 
-See more details about motor configurations, motor modding and printing guide on our [wiki page](https://wiki.teamclockworks.roimages/en/Projects/Starkiller).
+See more details about motor configurations, motor modding and printing guide on our [wiki page](https://wiki.teamclockworks.ro/en/Projects/Starkiller).
 
 ## Example Configurations
 
